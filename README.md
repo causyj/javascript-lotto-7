@@ -231,7 +231,7 @@
     ```jsx
     [ERROR] 로또 번호는 1부터 45 사이의 숫자여야 합니다.
     ```
-- [입력 예외 테스트 케이스 보러가기](./tests/ApplicationTest.js)
+- [입력 예외 테스트 케이스 보러가기](./__tests__/ApplicationTest.js)
 
 ### 1. 입력받은 로또 구입 금액 예외처리
 
